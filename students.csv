@@ -1,0 +1,11 @@
+Name,Age,Gender,Math_Score,Science_Score,English_Score,Attendance,Study_Hours
+Aman,18.0,Male,85.0,80.0,78,90,3
+Rahul,19.0,Male,78.0,75.0,74,85,2
+Priya,18.0,Female,92.0,95.0,90,95,5
+Sneha,20.0,Female,88.0,89.0,85,92,4
+Karan,,Male,150.0,45.0,50,40,1
+Aman,18.0,Male,85.0,80.0,78,90,3
+Riya,19.0,Female,,70.0,76,88,3
+Vikas,21.0,Male,65.0,60.0,58,70,2
+Neha,20.0,Female,72.0,,69,75,2
+Arjun,22.0,Male,90.0,91.0,88,96,5
